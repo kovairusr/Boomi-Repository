@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bns:Component xmlns:bns="http://api.platform.boomi.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" componentId="cb3963ab-1c14-4576-9260-45f252d1f2b6" createdBy="debasishp@kovair.com" createdDate="2023-05-10T12:16:52Z" currentVersion="true" deleted="false" folderFullPath="Kovair Software Inc./Process Library" folderId="Rjo0ODA4MTUx" folderName="Process Library" modifiedBy="debasishp@kovair.com" modifiedDate="2023-05-10T12:17:08Z" name="DevOps02" type="process" version="2">
+<bns:encryptedValues/>
+<bns:description/>
+<bns:object>
+<process allowSimultaneous="false" enableUserLog="false" processLogOnErrorOnly="false" purgeDataImmediately="false" updateRunDates="true" workload="general">
+<shapes>
+<shape image="start" name="shape1" shapetype="start" userlabel="DevOps002" x="96.0" y="96.0">
+<configuration>
+<noaction/>
+</configuration>
+<dragpoints>
+<dragpoint name="shape1.dragpoint1" toShape="shape2" x="272.0" y="104.0"/>
+</dragpoints>
+</shape>
+<shape image="message_icon" name="shape2" shapetype="message" userlabel="M1" x="288.0" y="96.0">
+<configuration>
+<message combined="false">
+<msgTxt/>
+<msgParameters/>
+</message>
+</configuration>
+<dragpoints>
+<dragpoint name="shape2.dragpoint1" toShape="shape3" x="464.0" y="104.0"/>
+</dragpoints>
+</shape>
+<shape image="stop_icon" name="shape3" shapetype="stop" userlabel="End" x="480.0" y="96.0">
+<configuration>
+<stop continue="true"/>
+</configuration>
+<dragpoints/>
+</shape>
+</shapes>
+</process>
+</bns:object>
+<bns:processOverrides/>
+</bns:Component>
