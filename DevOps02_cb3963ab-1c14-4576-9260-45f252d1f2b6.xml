@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bns:Component xmlns:bns="http://api.platform.boomi.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" componentId="cb3963ab-1c14-4576-9260-45f252d1f2b6" createdBy="debasishp@kovair.com" createdDate="2023-05-10T12:16:52Z" currentVersion="true" deleted="false" folderFullPath="Kovair Software Inc./Process Library" folderId="Rjo0ODA4MTUx" folderName="Process Library" modifiedBy="debasishp@kovair.com" modifiedDate="2023-05-10T12:17:08Z" name="DevOps02" type="process" version="2">
+<bns:Component xmlns:bns="http://api.platform.boomi.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" componentId="cb3963ab-1c14-4576-9260-45f252d1f2b6" createdBy="debasishp@kovair.com" createdDate="2023-05-10T12:16:52Z" currentVersion="true" deleted="false" folderFullPath="Kovair Software Inc./Process Library" folderId="Rjo0ODA4MTUx" folderName="Process Library" modifiedBy="debasishp@kovair.com" modifiedDate="2023-06-27T09:47:31Z" name="DevOps02" type="process" version="4">
 <bns:encryptedValues/>
 <bns:description/>
 <bns:object>
@@ -13,10 +13,10 @@
 <dragpoint name="shape1.dragpoint1" toShape="shape2" x="272.0" y="104.0"/>
 </dragpoints>
 </shape>
-<shape image="message_icon" name="shape2" shapetype="message" userlabel="M1" x="288.0" y="96.0">
+<shape image="message_icon" name="shape2" shapetype="message" userlabel="M2" x="288.0" y="96.0">
 <configuration>
 <message combined="false">
-<msgTxt/>
+<msgTxt>Message for M1 when Executed.</msgTxt>
 <msgParameters/>
 </message>
 </configuration>
