@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bns:Component xmlns:bns="http://api.platform.boomi.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" componentId="153677f4-2cbc-432d-b724-d65e21d5861c" createdBy="debasishp@kovair.com" createdDate="2023-01-06T09:37:09Z" currentVersion="true" deleted="false" folderFullPath="Kovair Software Inc./Process Library" folderId="Rjo0ODA4MTUx" folderName="Process Library" modifiedBy="debasishp@kovair.com" modifiedDate="2023-10-06T14:30:25Z" name="TestDemo" type="process" version="6">
+<bns:Component xmlns:bns="http://api.platform.boomi.com/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" componentId="153677f4-2cbc-432d-b724-d65e21d5861c" createdBy="debasishp@kovair.com" createdDate="2023-01-06T09:37:09Z" currentVersion="true" deleted="false" folderFullPath="Kovair Software Inc./Process Library" folderId="Rjo0ODA4MTUx" folderName="Process Library" modifiedBy="debasishp@kovair.com" modifiedDate="2023-10-26T05:33:06Z" name="TestDemo" type="process" version="7">
 <bns:encryptedValues/>
 <bns:description/>
 <bns:object>
@@ -16,7 +16,7 @@
 <shape image="message_icon" name="shape2" shapetype="message" userlabel="M1" x="256.0" y="96.0">
 <configuration>
 <message combined="false">
-<msgTxt>Test Message modified for demo</msgTxt>
+<msgTxt>Test Message modified for demo.</msgTxt>
 <msgParameters/>
 </message>
 </configuration>
